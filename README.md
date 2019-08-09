@@ -34,7 +34,7 @@ Contributions welcome! See [Contributing](CONTRIBUTING.md).
 
 ## Author
 
-- **John Biundo (Y Prospect on [Discord](https://discord.gg/G7Qnnhy))**
+**John Biundo (Y Prospect on [Discord](https://discord.gg/G7Qnnhy))**
 
 ## License
 
